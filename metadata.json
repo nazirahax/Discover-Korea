@@ -1,0 +1,6 @@
+{
+  "name": "Discover Korea Portal",
+  "description": "An interactive, full-stack Guide to Korean Culture, Travel and Language, with an AI Travel Architect, Korean Name Generator, quiz and interactive phrasebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
